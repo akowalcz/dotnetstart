@@ -1,0 +1,11 @@
+/home/akowalcz/vcode/work1/bin/Debug/netcoreapp2.1/work1.deps.json
+/home/akowalcz/vcode/work1/bin/Debug/netcoreapp2.1/work1.runtimeconfig.json
+/home/akowalcz/vcode/work1/bin/Debug/netcoreapp2.1/work1.runtimeconfig.dev.json
+/home/akowalcz/vcode/work1/bin/Debug/netcoreapp2.1/work1.dll
+/home/akowalcz/vcode/work1/bin/Debug/netcoreapp2.1/work1.pdb
+/home/akowalcz/vcode/work1/obj/Debug/netcoreapp2.1/work1.csprojAssemblyReference.cache
+/home/akowalcz/vcode/work1/obj/Debug/netcoreapp2.1/work1.csproj.CoreCompileInputs.cache
+/home/akowalcz/vcode/work1/obj/Debug/netcoreapp2.1/work1.AssemblyInfoInputs.cache
+/home/akowalcz/vcode/work1/obj/Debug/netcoreapp2.1/work1.AssemblyInfo.cs
+/home/akowalcz/vcode/work1/obj/Debug/netcoreapp2.1/work1.dll
+/home/akowalcz/vcode/work1/obj/Debug/netcoreapp2.1/work1.pdb
