@@ -6,7 +6,15 @@ namespace work1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World AK!");
+            int i = 0;
+            do  {
+                Console.WriteLine("Hello Ninka!");
+                 i++;
+            }
+            while( i <12);
+
+            Console.WriteLine("Bye Ninka!");
+            Console.WriteLine("kocham Cię tatusiu");
         }
     }
 }
