@@ -9,12 +9,13 @@ namespace work1
             int i = 0;
             do  {
                 Console.WriteLine("Hello Ninka!");
-                 i++;
+                
             }
             while( i <12);
 
             Console.WriteLine("Bye Ninka!");
             Console.WriteLine("kocham Cię tatusiu");
+            
         }
     }
 }
