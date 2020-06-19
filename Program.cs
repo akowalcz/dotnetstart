@@ -8,7 +8,7 @@ namespace work1
         {
             int i = 0;
             do  {
-                Console.WriteLine("Hello Ninka!");
+                Console.WriteLine("Hello Ninka from linux container!");
                 
             }
             while( i <12);
