@@ -8,13 +8,12 @@ namespace work1
         {
             int i = 0;
             do  {
-                Console.WriteLine("Hello Ninka from linux container!");
+                Console.WriteLine("Hello Ninka from linux container! Mon Jul 20");
                 
             }
             while( i <12);
 
-            Console.WriteLine("Bye Ninka!");
-            Console.WriteLine("kocham Cię tatusiu");
+            Console.WriteLine("Bye Ninka!");           
             
         }
     }
